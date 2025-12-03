@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/42879de7b8087bc9.js"],"default"]
+3:I[37457,["/_next/static/chunks/42879de7b8087bc9.js"],"default"]
+4:I[2355,["/_next/static/chunks/1d89ed972a208c42.js"],"Analytics"]
+5:I[45004,["/_next/static/chunks/1d89ed972a208c42.js","/_next/static/chunks/f4825c3199ef9509.js"],"CartProvider"]
+6:I[63780,["/_next/static/chunks/1d89ed972a208c42.js","/_next/static/chunks/f4825c3199ef9509.js"],"Navbar"]
+7:I[98924,["/_next/static/chunks/1d89ed972a208c42.js","/_next/static/chunks/f4825c3199ef9509.js"],"HeroSection"]
+8:I[74257,["/_next/static/chunks/1d89ed972a208c42.js","/_next/static/chunks/f4825c3199ef9509.js"],"MenuSection"]
+9:I[4008,["/_next/static/chunks/1d89ed972a208c42.js","/_next/static/chunks/f4825c3199ef9509.js"],"AboutSection"]
+a:I[89518,["/_next/static/chunks/1d89ed972a208c42.js","/_next/static/chunks/f4825c3199ef9509.js"],"WhyUsSection"]
+b:I[43176,["/_next/static/chunks/1d89ed972a208c42.js","/_next/static/chunks/f4825c3199ef9509.js"],"ReservationSection"]
+c:I[9785,["/_next/static/chunks/1d89ed972a208c42.js","/_next/static/chunks/f4825c3199ef9509.js"],"ContactSection"]
+d:I[76841,["/_next/static/chunks/1d89ed972a208c42.js","/_next/static/chunks/f4825c3199ef9509.js"],"Footer"]
+e:I[37228,["/_next/static/chunks/1d89ed972a208c42.js","/_next/static/chunks/f4825c3199ef9509.js"],"CartDrawer"]
+f:I[97367,["/_next/static/chunks/42879de7b8087bc9.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+12:I[97367,["/_next/static/chunks/42879de7b8087bc9.js"],"ViewportBoundary"]
+14:I[97367,["/_next/static/chunks/42879de7b8087bc9.js"],"MetadataBoundary"]
+16:I[68027,["/_next/static/chunks/42879de7b8087bc9.js"],"default"]
+:HL["/_next/static/chunks/004d53e46e33f6e4.css","style"]
+:HL["/_next/static/chunks/8997321b4e14aa47.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.a62025f2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"8ssXcnbL6HBMqVPnEuwLc","c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/004d53e46e33f6e4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/8997321b4e14aa47.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1d89ed972a208c42.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dm_sans_1c871f37-module__30ab_W__variable playfair_display_dc3b86c2-module__wRxeBG__variable","children":["$","body",null,{"className":"font-sans antialiased","children":[["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L4",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[["$","$L5",null,{"children":["$","main",null,{"className":"min-h-screen bg-background","children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/f4825c3199ef9509.js","async":true,"nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],{},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$@13"}],["$","div",null,{"hidden":true,"children":["$","$L14",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$@15"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$16",[]],"S":true}
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:[["$","title","0",{"children":"Amay Bistro | Italian Pizzeria in Kurnool"}],["$","meta","1",{"name":"description","content":"Experience authentic Italian flavors with an Indian twist at Amay Bistro. Located in VR Colony, Kurnool. Pizza, Pasta, Burgers & more. Dine-in & Takeaway."}]]
+11:null
